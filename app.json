@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "NIVARA - Fitness & Healthcare",
+    "slug": "nivara-fitness-care",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121216"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nivara.fitnesscare"
+    },
+    "android": {
+      "package": "com.nivara.fitnesscare",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#121216"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
